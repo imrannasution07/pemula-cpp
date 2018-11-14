@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     cout<<" Nama        : Ali Imran Nasution \n";
-    cout<<" NIM         : 170170061 \n";
-    cout<<" No Absen    : 14 \n \n \n";
+    cout<<" Github      : github.com/imrannasution07 \n";
+    cout<<" No     	: 170170061 \n \n \n";
 	int Arr[100],n,i,small,large,large2,find;
 	char try1;
     coba:
